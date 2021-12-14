@@ -1,2 +1,2 @@
-# datacamp_website_redesign_ab_testing
+# Datacamp Website Redesign AB Testing
 Submission of Datacamp competition 'Was a website redesign successful?'
